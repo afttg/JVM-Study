@@ -1,7 +1,6 @@
 package com.linzhiyi;
 /**
  * 导出GC日志文件：-Xloggc:./logs/gc.log
- * 修改后
  * */
 import java.util.ArrayList;
 
